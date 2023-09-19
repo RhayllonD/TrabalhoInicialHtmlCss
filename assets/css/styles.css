@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+section {
+  margin: 0 20px 0 20px;
+}
+
+.sectionInfos img {
+  width: 150px;
+}
+
+.infosContainer p {
+  margin: 0;
+  padding: 0;
+}
+
+.infosContainer {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: whitesmoke;
+
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+header ul li {
+  margin: 0 20px 0 0;
+}
+
+footer {
+  font-size: 18px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  background-color: whitesmoke;
+}
